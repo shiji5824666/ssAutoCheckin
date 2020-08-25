@@ -24,3 +24,7 @@ USERS用于存放账户名称，PSWD用于存放和前者对应的密码
 SITE用于存放你要签到的机场的URL，需要注意格式，否则可能会出现一些BUG，这个地址例如：https://www.iruanp.com 这种，带上协议，结尾不要斜杠
 
 保存之后就会在每天早上七点钟自动执行
+
+# 版权声明
+
+此仓库照抄了一部分代码，来源:https://github.com/zhjc1124/ssr_autocheckin/blob/master/main.py
