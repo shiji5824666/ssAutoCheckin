@@ -58,4 +58,3 @@ while i<len(user):
     checkin(user[i], pswd[i])
     i+=1
 
-#checkin('','')
