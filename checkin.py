@@ -2,7 +2,6 @@ import requests
 import os
 requests.packages.urllib3.disable_warnings()
 
-
 #iruanp.com
 #此脚本可多个账户签到，一行一个，用户名与密码要对应
 
